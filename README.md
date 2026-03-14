@@ -35,9 +35,19 @@
 
 ## 🖼️ Project Highlights
 
-| Best XI Card | Player Clustering (PCA) |
-|---|---|
-| ![Best XI](06_outputs/best_xi_card.png) | ![Clustering](outputs/chart_clustering_pca.png) |
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="outputs/06_best_xi_card.png" width="100%"/>
+      <b>Best XI Card</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="outputs/chart_clustering_pca.png" width="100%"/>
+      <b>Player Clustering (PCA)</b>
+    </td>
+  </tr>
+</table>
 
 ---
 

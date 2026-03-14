@@ -37,7 +37,7 @@
 
 | Best XI Card | Player Clustering (PCA) |
 |---|---|
-| ![Best XI](outputs/best_xi_card.png) | ![Clustering](outputs/chart_clustering_pca.png) |
+| ![Best XI](06_outputs/best_xi_card.png) | ![Clustering](outputs/chart_clustering_pca.png) |
 
 ---
 
@@ -89,7 +89,7 @@ ipl-analytics/
 │   ├── page3_match_intelligence_1.png
 │   ├── page4_match_intelligence_2.png
 │   └── page5_best_xi.png
-├── ipl.db                       ← SQLite database (auto-created)
+├── ipl.db                       ← SQLite database
 ├── requirements.txt
 └── README.md
 ```
